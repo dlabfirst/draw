@@ -1,0 +1,1 @@
+webpackJsonp(["version"],{634:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r=t(0),a=t.n(r),o=t(137),s=t.n(o);const c="Sun, 01 Apr 2018 14:58:01 GMT";n.default=class extends r.PureComponent{render(){return a.a.createElement(s.a,null,a.a.createElement("meta",{name:"version",content:c}))}}}});
